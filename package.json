@@ -25,6 +25,12 @@
     "@angular/platform-browser": "npm:@neverendingsupport/angular@15.2.9-trial-platform-browser-angular",
     "@angular/platform-browser-dynamic": "npm:@neverendingsupport/angular@15.2.9-trial-platform-browser-dynamic-angular",
     "@angular/router": "npm:@neverendingsupport/angular@15.2.9-trial-router-angular",
+    "@angular/elements": "npm:@neverendingsupport/angular@15.2.9-trial-elements-angular",
+    "@angular/localize-angular": "npm:@neverendingsupport/angular@15.2.9-trial-localize-angular",
+    "@angular/platform-server": "npm:@neverendingsupport/angular@15.2.9-trial-platform-server-angular",
+    "@angular/service-worker": "npm:@neverendingsupport/angular@15.2.9-trial-service-worker-angular",
+    "@angular/upgrade": "npm:@neverendingsupport/angular@15.2.9-trial-upgrade-angular",
+    "@angular/bazel": "npm:@neverendingsupport/angular@15.2.9-trial-bazel-angular",
     "core-js": "^2.4.1",
     "marked": "^4.2.12",
     "rxjs": "^6.4.0",
@@ -64,6 +70,12 @@
     "@angular/platform-browser-dynamic": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-platform-browser-dynamic-angular" },
     "@angular/router": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-router-angular" },
     "@angular/compiler-cli": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-compiler-cli-angular" },
-    "@angular/language-service": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-language-service-angular" }
+    "@angular/language-service": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-language-service-angular" },
+    "@angular/elements": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-elements-angular" },
+    "@angular/localize": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-localize-angular" },
+    "@angular/platform-server": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-platform-server-angular" },
+    "@angular/service-worker": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-service-worker-angular" },
+    "@angular/upgrade": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-upgrade-angular" },
+    "@angular/bazel": { ".": "npm:@neverendingsupport/angular@15.2.9-trial-bazel-angular" }
   }
 }
