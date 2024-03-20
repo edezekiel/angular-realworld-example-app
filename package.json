@@ -61,21 +61,53 @@
     "typescript": "4.6.4"
   },
   "overrides": {
-    "@angular/core": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-core" },
-    "@angular/animations": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-animations-angular" },
-    "@angular/bazel": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-bazel-angular" },
-    "@angular/common": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-common-angular" },
-    "@angular/compiler": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-compiler-angular" },
-    "@angular/compiler-cli": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-compiler-cli-angular" },
-    "@angular/elements": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-elements-angular" },
-    "@angular/forms": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-forms-angular" },
-    "@angular/language-service": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-language-service-angular" },
-    "@angular/localize": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-localize-angular" },
-    "@angular/platform-browser": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-platform-browser-angular" },
-    "@angular/platform-browser-dynamic": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-platform-browser-dynamic-angular" },
-    "@angular/platform-server": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-platform-server-angular" },
-    "@angular/router": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-router-angular" },
-    "@angular/service-worker": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-service-worker-angular" },
-    "@angular/upgrade": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-upgrade-angular" }
+    "@angular/core": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-core"
+    },
+    "@angular/animations": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-animations-angular"
+    },
+    "@angular/bazel": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-bazel-angular"
+    },
+    "@angular/common": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-common-angular"
+    },
+    "@angular/compiler": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-compiler-angular"
+    },
+    "@angular/compiler-cli": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-compiler-cli-angular"
+    },
+    "@angular/elements": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-elements-angular"
+    },
+    "@angular/forms": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-forms-angular"
+    },
+    "@angular/language-service": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-language-service-angular"
+    },
+    "@angular/localize": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-localize-angular"
+    },
+    "@angular/platform-browser": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-platform-browser-angular"
+    },
+    "@angular/platform-browser-dynamic": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-platform-browser-dynamic-angular"
+    },
+    "@angular/platform-server": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-platform-server-angular"
+    },
+    "@angular/router": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-router-angular"
+    },
+    "@angular/service-worker": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-service-worker-angular"
+    },
+    "@angular/upgrade": {
+      ".": "npm:@neverendingsupport/angular@14.3.0-trial-upgrade-angular"
+    }
   }
 }
