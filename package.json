@@ -70,7 +70,7 @@
     "@angular/elements": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-elements-angular" },
     "@angular/forms": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-forms-angular" },
     "@angular/language-service": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-language-service-angular" },
-    "@angular/localize": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-core-angular" },
+    "@angular/localize": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-localize-angular" },
     "@angular/platform-browser": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-platform-browser-angular" },
     "@angular/platform-browser-dynamic": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-platform-browser-dynamic-angular" },
     "@angular/platform-server": { ".": "npm:@neverendingsupport/angular@14.3.0-trial-platform-server-angular" },
