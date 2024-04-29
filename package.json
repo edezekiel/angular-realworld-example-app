@@ -25,7 +25,6 @@
     "@angular/compiler": "8.2.14",
     "@angular/core": "npm:@neverendingsupport/angular@8.2.16-core",
     "@angular/forms": "8.2.14",
-    "@angular/http": "8.2.14",
     "@angular/platform-browser": "8.2.14",
     "@angular/platform-browser-dynamic": "8.2.14",
     "@angular/platform-webworker": "8.2.14",
