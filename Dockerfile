@@ -23,7 +23,7 @@ RUN npm install -g @angular/cli@14.2.11
 COPY . .
 
 # Install any needed packages specified in package.json
-RUN npm ci --verbose
+RUN npm i --verbose
 
 # Build your Angular application
 RUN npm run build || exit 1
