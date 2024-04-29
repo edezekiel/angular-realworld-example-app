@@ -23,7 +23,7 @@ RUN npm install -g @angular/cli@13.3.11
 COPY . .
 
 # Install any needed packages specified in package.json
-RUN npm ci --legacy-peer-deps --verbose
+RUN npm i --legacy-peer-deps --verbose
 
 # Build your Angular application
 RUN npm run build || exit 1
