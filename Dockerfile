@@ -52,9 +52,6 @@ COPY . .
 # Install any needed packages specified in package.json
 RUN npm install --legacy-peer-deps
 
-### If postinstall scripts are disabled, also run the following command:
-RUN npx ngnes
-
 # Build your Angular application
 RUN npm run build || exit 1
 
