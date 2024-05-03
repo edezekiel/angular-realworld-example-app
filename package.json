@@ -10,7 +10,8 @@
     "build-prod": "ng build --configuration production",
     "test": "ng test",
     "lint": "ng lint --force",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "postinstall": "npx ngnes"
   },
   "pre-commit": [
     "lint"
@@ -23,6 +24,7 @@
     "@angular/animations": "9.1.13",
     "@angular/common": "9.1.13",
     "@angular/compiler": "9.1.13",
+    "@neverendingsupport/angular-tools": "1.1.1",
     "@angular/core": "npm:@neverendingsupport/angular@9.1.13-trial-core",
     "@angular/forms": "9.1.13",
     "@angular/platform-browser": "9.1.13",
