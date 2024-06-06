@@ -24,7 +24,7 @@
     "@angular/animations": "9.1.13",
     "@angular/common": "9.1.13",
     "@angular/compiler": "9.1.13",
-    "@angular/core": "npm:@neverendingsupport/angular@9.1.15-core",
+    "@angular/core": "npm:@neverendingsupport/angular@9.1.16-core",
     "@neverendingsupport/angular-tools": "1.1.1",
     "@angular/forms": "9.1.13",
     "@angular/platform-browser": "9.1.13",
@@ -64,6 +64,6 @@
     "typescript": "~3.8.3"
   },
   "overrides": {
-    "@angular/core": { ".": "npm:@neverendingsupport/angular@9.1.15-core" }
+    "@angular/core": { ".": "npm:@neverendingsupport/angular@9.1.16-core" }
   }
 }
