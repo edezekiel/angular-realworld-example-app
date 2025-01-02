@@ -20,7 +20,7 @@ RUN echo "@neverendingsupport:registry=https://registry.nes.herodevs.com/npm/pkg
 RUN npm cache clean --force
 
 # Install Angular CLI globally inside the container
-RUN npm install -g @angular/cli@15.2.4
+RUN npm install -g @angular/cli@15.2.10
 
 # Copy the project files into the container at /app
 COPY . .
