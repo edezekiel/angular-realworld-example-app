@@ -20,7 +20,7 @@
     "@angular/animations": "14.3.0",
     "@angular/common": "14.3.0",
     "@angular/compiler": "14.3.0",
-    "@angular/core": "npm:@neverendingsupport/angular@14.3.2-core",
+    "@angular/core": "npm:@neverendingsupport/angular@14.3.0-core-14.3.4",
     "@angular/forms": "14.3.0",
     "@angular/platform-browser": "14.3.0",
     "@angular/platform-browser-dynamic": "14.3.0",
@@ -62,7 +62,7 @@
   },
   "overrides": {
     "@angular/core": {
-      ".": "npm:@neverendingsupport/angular@14.3.2-core"
+      ".": "npm:@neverendingsupport/angular@14.3.0-core-14.3.4"
     }
   }
 }
